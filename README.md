@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Mendez</h1>
-<h3 align="center">Fronted Developer 💻</h3>
+<h3 align="center">Web Developer 💻</h3>
 
 <p align="left">
 My name is Luis Méndez, I am 19 years old. I am a technology and video game enthusiast. I like web development, especially fronted, but I want to be a Fullstack developer to develop my personal projects from start to finish. I am currently strengthening my knowledge to enter this industry and I hope to be able to enter it with extensive knowledge :D
