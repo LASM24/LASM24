@@ -29,7 +29,7 @@ My name is Luis Méndez, I am 19 years old. I am a technology and video game ent
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/source/logo-img-fastapi.png" alt="fastapi" width="40" height="40"/>
+  <img src="https://worldvectorlogo.com/es/logo/fastapi" alt="fastapi" width="40" height="40"/>
   </a>
     <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
