@@ -7,7 +7,7 @@
 
 
 <p align="left">
-My name is Luis Méndez, I am 19 years old. I am a technology and video game enthusiast. I like web development, especially fronted, but I want to be a Fullstack developer to develop my personal projects from start to finish. I am currently strengthening my knowledge to enter this industry and I hope to be able to enter it with extensive knowledge :D
+My name is Luis Méndez, I am 19 years old. I am a technology and video game enthusiast. I like web development, especially fronted, but I want to be a Fullstack developer to develop my personal projects from start to finish. I am currently strengthening my skills to enter this industry and I hope to enter it with extensive knowledge :D
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
