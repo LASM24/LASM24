@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Mendez</h1>
-<h3 align="center">Web Developer 💻</h3>
+<h3 align="center">Fullstack Developer 💻</h3>
 
 <p align="center">
   <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="MasterHead">
@@ -7,7 +7,7 @@
 
 
 <p align="left">
-Hey there! 👋 I'm Luis Méndez, a 19-year-old tech and gaming enthusiast. I'm into web development, particularly frontend, and I'm on a journey to become a Fullstack developer
+Hey there! 👋 I'm Luis Méndez, a 19-year-old tech and gaming enthusiast. I'm into web development, particularly frontend, but I'm on a journey to become a Fullstack developer
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
