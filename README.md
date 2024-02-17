@@ -51,6 +51,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LASM24/LASM24/output/snake.svg" alt="Snake animation" />
-
 ###
