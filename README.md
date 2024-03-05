@@ -34,7 +34,7 @@ Hey there! 👋 I'm Luis Méndez, a 19-year-old tech and gaming enthusiast. I'm 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="60" height="45" style="margin-right: 10px;"/>
   </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" style="margin-right: 10px;"/>
