@@ -24,23 +24,26 @@ Hey there! 👋 I'm Luis Méndez, a 19-year-old tech and gaming enthusiast. I'm 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 10px;"/>
   </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="70" height="40" style="margin-right: 10px;"/>
+  <a href="https://astro.build/" target="_blank" rel="noreferrer">
+    <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="astro" width="40" height="40" style="margin-right: 10px"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="80" height="40" style="margin-right: 10px;"/>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="45" style="margin-right: 10px;"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;"/>
@@ -52,3 +55,4 @@ Hey there! 👋 I'm Luis Méndez, a 19-year-old tech and gaming enthusiast. I'm 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/>
   </a>
 </p>
+
