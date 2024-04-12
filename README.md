@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-Hey there! 👋 I'm Luis Méndez, a 19-year-old tech and gaming enthusiast. I'm into web development, particularly frontend, but I'm on a journey to become a Fullstack developer
+Hello! 👋 I'm Luis Méndez, a 20-year-old technology and video game enthusiast. I specialize in web development, particularly Python backend, but I enjoy building projects from scratch, which has led me to become a Fullstack developer
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
