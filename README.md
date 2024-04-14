@@ -9,6 +9,14 @@
 <br>
 <br>
 
+<p align="left">
+Hello! 👋 I'm Luis Méndez, a 20-year-old technology and video game enthusiast. I specialize in web development, particularly Python backend, but I enjoy building projects from scratch, which has led me to become a Fullstack developer
+</p>
+
+
+<br>
+<br>
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,12 +40,18 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LASM24&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LASM24&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LASM24&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LASM24&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LASM24&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
+
 
 <br>
 <br>
@@ -46,10 +60,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=LASM24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <br>
-<br>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LASM24&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=LASM24&icon=0&color=0)](https://visitcount.itsvg.in)
