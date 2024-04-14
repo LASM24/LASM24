@@ -53,11 +53,6 @@ Hello! 👋 I'm Luis Méndez, a 20-year-old technology and video game enthusiast
 <br>
 <br>
 
-![snake gif](https://github.com/LASM24/LASM24/blob/output/github-contribution-grid-snake.gif)
-
-<br>
-<br>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LASM24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
