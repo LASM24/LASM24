@@ -13,8 +13,6 @@
 Hello! 👋 I'm Luis Méndez, a 20-year-old technology and video game enthusiast. I specialize in web development, particularly Python backend, but I enjoy building projects from scratch, which has led me to become a Fullstack developer
 </p>
 
-
-<br>
 <br>
 
 # 💻 Tech Stack:
@@ -52,6 +50,10 @@ Hello! 👋 I'm Luis Méndez, a 20-year-old technology and video game enthusiast
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LASM24&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
+<br>
+<br>
+
+![snake gif](https://github.com/LASM24/LASM24/blob/output/github-contribution-grid-snake.gif)
 
 <br>
 <br>
