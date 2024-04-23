@@ -29,7 +29,6 @@ Hello! 👋 I'm Luis Méndez, a 20-year-old technology and video game enthusiast
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%23424242.svg?style=for-the-badge&logo=render&logoColor=white)
 
 <br>
 <br>
