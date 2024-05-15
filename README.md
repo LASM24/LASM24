@@ -33,17 +33,11 @@ Hello! 👋 I'm Luis Méndez, a 20-year-old technology and video game enthusiast
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LASM24&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-</p>
+![](https://github-readme-stats.vercel.app/api?username=LASM24&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LASM24&theme=tokyonight&hide_border=false" alt="GitHub Streak">
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LASM24&theme=vue-dark&hide_border=false)<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LASM24&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LASM24&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
 <br>
